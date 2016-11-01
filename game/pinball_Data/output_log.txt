@@ -1,0 +1,68 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M (ID=0xfe4)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Project\Pinball-Dango\game\pinball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Project\Pinball-Dango\game\pinball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Project\Pinball-Dango\game\pinball_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.826 seconds
+Platform assembly: E:\Project\Pinball-Dango\game\pinball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Project\Pinball-Dango\game\pinball_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 218.046097 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3a6c -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.863022 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 386.
+Total: 26.785084 ms (FindLiveObjects: 0.033158 ms CreateObjectMapping: 0.024079 ms MarkObjects: 26.714819 ms  DeleteObjects: 0.011842 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.591320 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 386.
+Total: 0.146053 ms (FindLiveObjects: 0.028026 ms CreateObjectMapping: 0.022105 ms MarkObjects: 0.087237 ms  DeleteObjects: 0.007500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.534477 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 386.
+Total: 0.156317 ms (FindLiveObjects: 0.049737 ms CreateObjectMapping: 0.014210 ms MarkObjects: 0.083684 ms  DeleteObjects: 0.007500 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ball.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ball.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.534872 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 386.
+Total: 0.160264 ms (FindLiveObjects: 0.041052 ms CreateObjectMapping: 0.027237 ms MarkObjects: 0.083684 ms  DeleteObjects: 0.007105 ms)
+

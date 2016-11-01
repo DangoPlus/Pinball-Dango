@@ -45,10 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\ApplyForceAtOffet.cs" />
      <Compile Include="Assets\Scripts\Ball.cs" />
-     <Compile Include="Assets\Scripts\BallManager.cs" />
-     <Compile Include="Assets\Scripts\KillBox.cs" />
      <Compile Include="Assets\Scripts\deadball.cs" />
      <Compile Include="Assets\Scripts\jumpin.cs" />
      <Compile Include="Assets\Scripts\move.cs" />
